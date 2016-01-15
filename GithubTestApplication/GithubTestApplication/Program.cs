@@ -12,7 +12,9 @@ namespace GithubTestApplication
         {
             Console.WriteLine("Hello world!");
 
-            for (int i = 0; i < 10; i++)
+            Console.WriteLine("Another test!");
+
+            for (var i = 0; i < 20; i++)
             {
                 Console.WriteLine("Test");
             }
