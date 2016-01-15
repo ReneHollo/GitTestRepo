@@ -11,11 +11,7 @@ namespace GithubTestApplication
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-
-            while (true)
-            {
-                Console.WriteLine("Drink beer!");
-            }
+            Console.ReadLine();
         }
     }
 }
